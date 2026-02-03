@@ -1,1 +1,3 @@
-# CSet412genailab
+This Repository has been dedicated to the GENERATIVE AI Course that I have been pursuing.✅
+
+<img width="3168" height="1344" alt="Gemini_Generated_Image_hhf4irhhf4irhhf4" src="https://github.com/user-attachments/assets/8c03836b-7c11-49db-afdb-64e7e9e06b68" />
